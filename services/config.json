@@ -1,0 +1,17 @@
+{
+    "mongoDB": "mongodb+srv://indianrailways2024:Indian2024Rail@cluster0.mkurv6b.mongodb.net/indian-railways",
+    "govAPI": "http://localhost:3001/gov/employee/",
+    "emailClient": {
+        "host": "smtp.gmail.com",
+        "email": "indianrailways2024@gmail.com",
+        "auth": {
+            "user": "indianrailways2024@gmail.com",
+            "pass": "Indian@2024Rail"
+        }
+    },
+    "messageClient": {
+        "accountSid": "ACa0eda0f1bc9bc0e2f7829765215e7e6c",
+        "authToken": "09579f4efb085009fe9995a1e356faa9",
+        "phoneNo": "+12566485013"
+    }
+}
